@@ -1,0 +1,2 @@
+pandas==X.Y.Z
+openpyxl==X.Y.Z
